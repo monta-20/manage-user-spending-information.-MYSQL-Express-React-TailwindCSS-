@@ -1,0 +1,28 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monta-20/manage-user-spending-information.-MYSQL-Express-React-TailwindCSS-.git"
+  },
+  "author": "Montassar Ben Brahim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monta-20/manage-user-spending-information.-MYSQL-Express-React-TailwindCSS-/issues"
+  },
+  "homepage": "https://github.com/monta-20/manage-user-spending-information.-MYSQL-Express-React-TailwindCSS-#readme",
+  "dependencies": {
+    "@faker-js/faker": "^9.0.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "faker": "^6.6.6",
+    "mysql2": "^3.11.3",
+    "pg": "^8.13.0",
+    "sequelize": "^6.37.4"
+  }
+}
